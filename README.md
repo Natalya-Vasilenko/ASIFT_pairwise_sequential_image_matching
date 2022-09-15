@@ -6,7 +6,7 @@ There is the main script in this repo:
 `cross-matching.py` : runs a sequential pairwise comparison of images with the ASIFT model.
 
 ## What do we get?
-Images are processed and converted to B&W and PNG format before being transferred to ASIFT.
+Images are processed and converted to B&W and PNG format before being transferred to [ASIFT](http://www.ipol.im/pub/art/2011/my-asift/).
 For each pair of images (img1.png, img2.png) you will get:
 
 1. **imgOutVert_{img1 index}_{img2 index}.png**, **imgOutHori_{img1 index}_{img2 index}.png**: 
